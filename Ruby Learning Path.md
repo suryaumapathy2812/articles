@@ -85,3 +85,13 @@
 - Modules  [[Link_1](https://youtu.be/t_ispmWmdjY?t=14030)]
     - include
     - require_relative [import]
+
+
+## Ruby On Rails
+
+### What is Rails?
+- :globe_with_meridians:[Wikipedia](https://en.wikipedia.org/wiki/Ruby_on_Rails)
+
+## Reading Material
+- [PupilFirst](https://freshworks-academy-7118.pflms.net/courses/1419/curriculum)
+- [Ruby on Rails - Full Course](https://youtu.be/fmyvWz5TUWg)
