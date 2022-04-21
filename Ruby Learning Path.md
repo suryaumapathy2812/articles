@@ -18,7 +18,7 @@
 
 
 
-## Reading Contents
+## Reading Materials
 - :clapper:[Ruby-Essential](https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics)
 - :clapper:[Ruby Programming Language - Full Course](https://youtu.be/t_ispmWmdjY)
 - :page_with_curl:[Ruby - Tutorialspoint](https://www.tutorialspoint.com/ruby/index.htm)
@@ -93,5 +93,7 @@
 - :globe_with_meridians:[Wikipedia](https://en.wikipedia.org/wiki/Ruby_on_Rails)
 
 ## Reading Material
+- [MVC Architecture](https://youtu.be/DUg2SWWK18I)
 - [PupilFirst](https://freshworks-academy-7118.pflms.net/courses/1419/curriculum)
+- [Ruby on Rails 5 Essential](https://www.linkedin.com/learning/ruby-on-rails-5-essential-training)
 - [Ruby on Rails - Full Course](https://youtu.be/fmyvWz5TUWg)
