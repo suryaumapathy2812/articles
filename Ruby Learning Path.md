@@ -87,6 +87,33 @@
     - require_relative [import]
 
 
+### Weekly Plan
+Week 1
+- [Introduction to Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
+- [Interactive Ruby](https://youtu.be/t_ispmWmdjY?t=14346)
+- [Variables](https://youtu.be/t_ispmWmdjY?t=1097)
+- [Operators](https://www.tutorialspoint.com/ruby/ruby_operators.htm)
+- [Datatypes](https://youtu.be/t_ispmWmdjY?t=1712)
+
+Week 2
+- [Input/Output](https://youtu.be/t_ispmWmdjY?t=3234)
+- [Arrays](https://youtu.be/t_ispmWmdjY?t=3234)
+- [Hashes](https://youtu.be/t_ispmWmdjY?t=4891)
+- [Symbols](https://www.linkedin.com/learning/ruby-essential-training-part-1-the-basics/symbols)
+
+Week 3
+- [Functions](https://youtu.be/t_ispmWmdjY?t=5262)
+- [Conditional Statements](https://youtu.be/t_ispmWmdjY?t=6026)
+- [Looping Statements](https://youtu.be/t_ispmWmdjY?t=9329)
+- [Comments](https://youtu.be/t_ispmWmdjY?t=9885)
+- [Handling Errors](https://youtu.be/t_ispmWmdjY?t=11194)
+
+Week 4
+- [File Input/Output](https://youtu.be/t_ispmWmdjY?t=10163)
+- [Classes & Objects](https://youtu.be/t_ispmWmdjY?t=11669)
+- [Modules](https://youtu.be/t_ispmWmdjY?t=14030)
+
+
 ## Ruby On Rails
 
 ### What is Rails?
