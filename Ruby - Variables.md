@@ -26,6 +26,12 @@ It is adviced not to use them as they make the program cryptic and complex
 $global_var = "This is a global variable"
 ```
 
+
+<p>
+	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSajW4jbhmEt6dIhni4AysyInulUcQ7nHggHYh_UGs97Dyi2j9R-IHUcEmcrjl7HJf0sN0SSBuk8ufs/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="569" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe>
+</p>
+
+
 ## Class Variable
 
 A Class variable **starts with @@ sign**. They **need to be initilized** before use. The Class variable belongs to the whole Class and is accessable anywhere inside the class. 
@@ -58,6 +64,3 @@ Class Student
 end
 ```
 
-<p>
-	<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSajW4jbhmEt6dIhni4AysyInulUcQ7nHggHYh_UGs97Dyi2j9R-IHUcEmcrjl7HJf0sN0SSBuk8ufs/embed?start=false&amp;loop=false&amp;delayms=3000" width="960" height="569" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe>
-</p>
